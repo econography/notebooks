@@ -1,6 +1,6 @@
 ### NFR Farger
 
-Notebook for å lage fargerpaletter til Tableau:
+Notebook for å lage fargepaletter til Tableau:
 
 https://github.com/samspill/notebooks/blob/master/Farger/NFR_Farger.ipynb
 
